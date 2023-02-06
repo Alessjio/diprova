@@ -94,6 +94,16 @@ background-color: #BBD0FF;
 margin-right: 330px;
 }
 
+.nomi {
+    display: flex;
+    flex-direction: column;
+    margin-left: 86%;
+    margin-top: -60px;
+    color: #553324;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+}
+
 
 
 
